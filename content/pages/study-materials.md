@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -37,9 +38,9 @@ Prominence ({{% resource_link 231c44ca-6d8d-585b-513d-5179359b1ce1 "PDF" %}})
 
 Sentence Stress and Rhythm ({{% resource_link 0a92a5f4-efac-9c94-fcd8-c323980b72c9 "PDF" %}})
 
-The Sound System of NAE (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link aed2e172-34a8-8282-8a0c-4ea3b5934695 "PDF" %}})
+The Sound System of NAE ({{% resource_link aed2e172-34a8-8282-8a0c-4ea3b5934695 "PDF" %}})
 
-Vowels (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c8f1855e-eb11-85fe-c96e-754e8ddc5182 "PDF" %}})
+Vowels ({{% resource_link c8f1855e-eb11-85fe-c96e-754e8ddc5182 "PDF" %}})
 
 Word Stress ({{% resource_link b98ac05f-c4f8-2543-7771-0b73fc1ae460 "PDF" %}})
 
